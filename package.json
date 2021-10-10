@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/PartMan7/modmail/issues"
   },
-  "homepage": "https://github.com/PartMan7/modmail#readme",
+  "homepage": "https://github.com/CreativeGit/RadonModMail#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "origindb": "^2.6.1"
