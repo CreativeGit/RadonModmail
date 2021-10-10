@@ -1,11 +1,8 @@
 # Modmail
 
-Modmail implementation
+Radon Modmail by Creative.#0001
+Work in Progress
 
-
-All rights granted to Creative.#0001 upon completion of transaction
-
-In lieue of transaction, rights are held by PartMan#7321
 
 ### Deployment:
 
