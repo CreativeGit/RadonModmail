@@ -1,0 +1,26 @@
+{
+  "name": "modmail",
+  "version": "0.10.0",
+  "description": "Modmail implementation",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint . --config .eslintrc.json --ext .js",
+    "start": "node --trace-warnings index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PartMan7/modmail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PartMan7/modmail/issues"
+  },
+  "homepage": "https://github.com/PartMan7/modmail#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "origindb": "^2.6.1"
+  }
+}
